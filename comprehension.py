@@ -1,3 +1,6 @@
+# The program generate a random number between 1 and 20 and the user has 6 try to guess it. 
+
+
 import random  # make it possible to access to the code in the random module
 
 guessesTaken = 0  # Assign 0 to guessesTaken variable
